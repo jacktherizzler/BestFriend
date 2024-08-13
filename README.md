@@ -1,2 +1,3 @@
 # BestFriend
-Interactive chatbot that gives advice to the users just how a best friend would 
+
+An interactive chatbot that offers bad advice intentionally, similar to what their best friend might suggest.
